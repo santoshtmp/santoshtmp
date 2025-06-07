@@ -26,14 +26,14 @@ A web developer experienced in designing, planning, and implementing web applica
 ## 💻 Skills
 
 ### CMS & Platforms/Frameworks
-![Moodle](https://img.shields.io/badge/Moodle-F98012?logo=moodle&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
-![Drupal](https://img.shields.io/badge/Drupal-0678BE?logo=drupal&logoColor=white)
+[![Moodle](https://img.shields.io/badge/Moodle?logo=moodle&logoColor=white)](https://moodle.org)  
+[![WordPress](https://img.shields.io/badge/WordPress?logo=wordpress&logoColor=white)](https://wordpress.org)  
+[![Drupal](https://img.shields.io/badge/Drupal?logo=drupal&logoColor=white)](https://www.drupal.org)
 
 ### Web Development
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL?logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 

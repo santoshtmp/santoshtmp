@@ -41,6 +41,14 @@ A web developer experienced in designing, planning, and implementing web applica
 
 ---
 
+### Open Source Contributions
+#### 🛠️ Moodle Plugins
+- **[Moodle Easy Custom Menu](https://moodle.org/plugins/local_easycustmenu)**: A plugin for customizing the menu in Moodle.
+  
+#### 🛠️ WordPress Plugins
+- **[Post Title Required](https://wordpress.org/plugins/post-title-required/)**: A plugin that makes the post title field required in WordPress.
+
+
 ## 📌 Let's Connect
 
 Feel free to explore my **[Portfolio](https://santoshmagar.com.np/portfolio)** and **[CV](https://docs.google.com/document/d/1OjrZ1W_1nP9TuYRAWKzM0Xd_mcZG2rtm/edit?usp=sharing&ouid=110968770568888690501&rtpof=true&sd=true)** for full details!

@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ---
 
-##  About Me
-
 A web developer experienced in designing, planning, and implementing web applications on **CMS platforms** like **Moodle**, **Drupal**, and **WordPress**. Skilled in developing **plugins**, **themes**, and working with **REST APIs**. Passionate about learning new technologies and leading teams to deliver high-quality solutions.
 
 ---

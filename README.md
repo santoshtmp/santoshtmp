@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 A web developer experienced in designing, planning, and implementing web applications on **CMS platforms** like **Moodle**, **Drupal**, and **WordPress**. Skilled in developing **plugins**, **themes**, and working with **REST APIs**. Passionate about learning new technologies and leading teams to deliver high-quality solutions.
 
@@ -26,9 +26,7 @@ A web developer experienced in designing, planning, and implementing web applica
 ## 💻 Skills
 
 ### CMS & Platforms/Frameworks
-[![Moodle](https://img.shields.io/badge/Moodle-F98012?logo=moodle&logoColor=white)](https://moodle.org)  
-[![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)](https://wordpress.org)  
-[![Drupal](https://img.shields.io/badge/Drupal-0678BE?logo=drupal&logoColor=white)](https://www.drupal.org)
+[![Moodle](https://img.shields.io/badge/Moodle-F98012?logo=moodle&logoColor=white)](https://moodle.org)  [![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)](https://wordpress.org)  [![Drupal](https://img.shields.io/badge/Drupal-0678BE?logo=drupal&logoColor=white)](https://www.drupal.org)
 
 ### Web Development
 [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net)  

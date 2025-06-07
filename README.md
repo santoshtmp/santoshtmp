@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **santoshtmp/santoshtmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -44,11 +42,16 @@ A web developer experienced in designing, planning, and implementing web applica
 ![Themes](https://img.shields.io/badge/Themes-Creative-lightgrey)
 ![REST APIs](https://img.shields.io/badge/APIs-REST%20%7C%20JSON-lightgrey)
 
-### Tools
+### Tools and other
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)  
+![Asana](https://img.shields.io/badge/Asana-273347?logo=asana&logoColor=white) 
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)  
+![Mapbox](https://img.shields.io/badge/Mapbox-4264FB?logo=mapbox&logoColor=white)
 ![Mustache](https://img.shields.io/badge/Mustache-000000?logo=mustache&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-C9B037?logo=yaml&logoColor=black)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
 

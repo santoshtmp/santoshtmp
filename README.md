@@ -48,6 +48,7 @@ A web developer experienced in designing, planning, and implementing web applica
 #### 🛠️ WordPress Plugins
 - **[Post Title Required](https://wordpress.org/plugins/post-title-required/)**: A plugin that makes the post title field required in WordPress.
 
+---
 
 ## 📌 Let's Connect
 

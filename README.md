@@ -43,6 +43,7 @@ A web developer experienced in designing, planning, and implementing web applica
   
 #### 🛠️ WordPress Plugins
 - **[Post Title Required](https://wordpress.org/plugins/post-title-required/)**: A plugin that makes the post title field required in WordPress.
+- **[Citation Note](https://wordpress.org/plugins/citation-note/)**: Plugin to manage citations, references, and footnotes in WordPress post content.
 
 ---
 

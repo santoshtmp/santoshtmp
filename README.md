@@ -39,9 +39,9 @@ A web developer experienced in designing, planning, and implementing web applica
 
 ### Open Source Contributions
 #### 🛠️ Moodle Plugins
-- **[Easy Custom Menu](https://moodle.org/plugins/local_easycustmenu)**: A plugin for customizing the menu in Moodle.
-- **[Custom Clean URL](https://moodle.org/plugins/local_customcleanurl)**: A plugin for custom clean URLs in Moodle.
-- **[User Course Reports](https://moodle.org/plugins/report_usercoursereports)**: Moodle user course report table..
+- **[Easy Custom Menu](https://moodle.org/plugins/local_easycustmenu)**: Moodle plugin for customizing the menu.
+- **[Custom Clean URL](https://moodle.org/plugins/local_customcleanurl)**: Moodle plugin for custom clean URLs.
+- **[User Course Reports](https://moodle.org/plugins/report_usercoursereports)**: Moodle plugin for user course report table..
   
 #### 🛠️ WordPress Plugins
 - **[Post Title Required](https://wordpress.org/plugins/post-title-required/)**: A plugin that makes the post title field required in WordPress.
